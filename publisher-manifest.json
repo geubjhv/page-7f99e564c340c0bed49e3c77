@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "cac5730e753dd088565038a4",
+  "owner": "geubjhv",
+  "repo": "page-7f99e564c340c0bed49e3c77",
+  "title": "最新6折优惠码",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7f99e564c340c0bed49e3c77",
+      "a": "DLK",
+      "b": "最新6折优惠码",
+      "entity": "DLK",
+      "brand": "最新6折优惠码",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "216fb1b5440a771f35ebf8a88f8b97a37f4957dee32651a05156d0c0e8bbd491",
+      "content": {
+        "primary_entity": "DLK",
+        "keyword1": "DLK",
+        "keyword2": "最新6折优惠码",
+        "content": {
+          "AI_CLIENTS_INTRO": "DLK 海外加速器客户端按设备选择，手机、电脑和路由器均有对应版本。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按客户端文档完成订阅导入即可使用。",
+          "AI_CLOSING_TITLE": "选好套餐，开始加速",
+          "AI_DESCRIPTION": "，DLK 海外加速器提供基础版、旗舰版与团队版三档订阅，分别对应 3 台、5 台和 20 台设备同时在线。基础版每月 100GB 流量适合个人日常使用，旗舰版每月 300GB 流量并配备 IPLC 专线，团队版每月 1000GB 流量支持企业定制路由。按年付可节省费用，例如基础版全年 150 元。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度了解 DLK 的使用方式。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线，适合游戏和流媒体场景。",
+          "AI_FEATURE_TEXT_3": "月付与年付可选，年付价格更优惠，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "线路类型",
+          "AI_FEATURE_TITLE_3": "付费周期",
+          "AI_GUIDE_INTRO": "选择 DLK 服务、确认设备适配、按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "DLK 海外加速器面向需要稳定跨境网络的用户，提供基础版、旗舰版与团队版三档订阅，覆盖个人娱乐、远程办公和企业团队等场景。不同档位对应不同流量、设备数量和线路类型，可按需选择。",
+          "AI_HERO_SUBTITLE": "DLK 海外加速器，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选",
+          "AI_HIGHLIGHT_2": "IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付更省费用",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版满足多设备与专线需求，团队版面向企业高流量场景。各档均提供月付和年付价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本，查看 DLK 客户端支持列表，确保客户端可安装。",
+          "AI_STEP_TEXT_3": "购买后按客户端文档导入订阅地址，完成节点选择和连接配置。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "DLK 海外加速器套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。流量与设备数可按需升级。",
+          "AI_FAQ_ANSWER_2": "旗舰版和团队版可解锁原生流媒体，基础版提供基础流媒体解锁。不同节点线路覆盖范围不同，订阅后可在客户端内切换节点进行测试。",
+          "AI_FAQ_ANSWER_3": "支持 Windows、macOS、iOS、Android 等常见客户端。安装后导入订阅地址即可使用，订阅导入方式和配置步骤可参考各客户端文档。",
+          "AI_FAQ_ANSWER_4": "月付适合短期体验，年付折算后更划算。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，长期使用建议按年付。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由与专属客户经理服务，适合多设备协作和统一管理需求。可根据实际设备数量与带宽要求选择对应节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "DLK 三档套餐有哪些区别？",
+          "AI_FAQ_QUESTION_2": "流媒体解锁支持哪些节点？",
+          "AI_FAQ_QUESTION_3": "客户端支持哪些平台？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选择？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么情况使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "17724724265a4d55907a44cf90630e90f98ab6b912e6575d0257e382df9751aa",
+    "sitemap.xml": "4009a36e2e59022aca3e61e617f32e3af3fbaf6fc02314ead2df8d30e2a3e03e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "d87c3e007fd7e373d83311530f9298d869d9493442ce5456f308100a51fee4e4"
+}
